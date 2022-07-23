@@ -14,7 +14,7 @@ class CfgFunctions
 	class WOLV {
 		class wolv_TDM {
 			file = "functions_TDM";
-			//class missions {};
+			class var {};
 		}
 	}
 };
