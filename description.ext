@@ -15,6 +15,7 @@ class CfgFunctions
 		class wolv_TDM {
 			file = "functions_TDM";
 			class var {};
+			class clear {};
 			class createArea {};
 		}
 	}
